@@ -28,6 +28,7 @@ a {
 main {
   width: 960px;
   margin: 30px auto;
+  margin-bottom: 30px;
 }
   
 .img1 {
@@ -56,6 +57,7 @@ section{
   margin-top: 30px;
   margin-left: auto;
   margin-right: auto;
+  height: 430px;
 }
 
 section img  {
@@ -100,4 +102,9 @@ button {
 
 button:hover {
   background: rgb(221, 206, 1);
+}
+
+body footer {
+  background-color: rgb(77, 75, 75);
+  height : 100px;
 }
